@@ -51,14 +51,15 @@ Contraints are policy or technical limitations for the project
 Link - https://lucid.app/lucidchart/19e7f6a1-c181-4766-984f-3c51a26d99fa/edit?viewport_loc=-25%2C55%2C2080%2C1092%2C0_0&invitationId=inv_16ebfa3a-eab4-4138-8a47-4962ba850634
 
 
-image.png
+![Conceptual Diagram](_docs/assets/conceptual-diagram.png)
+
 
 ## Logical Diagram
 
 Link - https://lucid.app/lucidchart/73b1f42e-9614-47b6-abf6-edb8afb69855/edit?viewport_loc=445%2C183%2C1085%2C1092%2C0_0&invitationId=inv_6e3537e9-c5aa-4b58-b273-953f3b1c1fe8
 
 
-image.png
+![Logical Diagram](_docs/assets/logical-diagram.png)
 
 
 PS: I was unable to add more line to the logical diagram as Lucidcharts sent a pop up that I am out of shapes for this document.
