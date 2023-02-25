@@ -51,7 +51,7 @@ Contraints are policy or technical limitations for the project
 Link - https://lucid.app/lucidchart/19e7f6a1-c181-4766-984f-3c51a26d99fa/edit?viewport_loc=-25%2C55%2C2080%2C1092%2C0_0&invitationId=inv_16ebfa3a-eab4-4138-8a47-4962ba850634
 
 
-![Conceptual Diagram](/journal/_docs/assets/conceptual-diagram.png)
+![Conceptual Diagram](../_docs/assets/conceptual-diagram.png)
 
 
 ## Logical Diagram
