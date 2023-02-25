@@ -9,7 +9,6 @@ This is the starting codebase that will be used in the FREE AWS Cloud Project Bo
 
 ![Cruddur Screenshot](_docs/assets/cruddur-screenshot.png)
 
-![Logical Diagram](_docs/assets/logical-diagram.png)
 
 ## Instructions
 
